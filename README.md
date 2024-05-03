@@ -99,3 +99,4 @@ We welcome contributions from the community to improve this project further. To 
 ## Demo
 
 [View Demo]()
+# Gym-Landing-Page---React-TypeScript-Vite
